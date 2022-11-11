@@ -35,9 +35,9 @@ I enrolled in UCC in September 2013.
 Here, I learnt quickly that studying "Maths" is like saying you work in "Computers", theres a lot of areas. 
 
 I struggled to enjoy abstract maths, or other modules without obvious real life applications, but really loved anything where I could solve something. 
-I excelled at Linear Algebra, Multivariable Calculus and Derivatives/Option Pricing. This was also the first time that I got exposure to computer programming. As soon as I took the Intro to C module in first year, I knew that I loved it. 
+I excelled at Linear Algebra, Multivariable Calculus and Programming in C. This was the first time I got exposure to computer programming and I loved it.
 
-Through the four years, I would have gained experience in C, C++ and Python. 
+Through the four years, I gained experience in C, C++ and Python. 
 
 R was also heavily though for Data Analysis, teaching me modelling techniques like regression, along with Anomoly detection and Time Series. 
 
