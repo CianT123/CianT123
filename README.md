@@ -57,14 +57,14 @@ I was selected for software engineering training after showing an aptitude.
 ### Quantexa - Software Engineer
 > *Tech stack:*
 > 
-> Scala : Used for programming
-> Spark : Streaming Framework
-> Hadoop : Data
-> Jenkins : CI/CD
-> Gradle : Building JAR packages
-> Nexus : JAR repository
-> Maven : Deployment of JAR packages
-> GCP Buckets : For internal use
+> - Scala : Used for programming
+> - Spark : Streaming Framework
+> - Hadoop : Data
+> - Jenkins : CI/CD
+> - Gradle : Building JAR packages
+> - Nexus : JAR repository
+> - Maven : Deployment of JAR packages
+> - GCP Buckets : For internal use
 
 - Selected for Software Engineering training with Quantexa.
 - Subcontracted out to a large spanish bank.
@@ -75,9 +75,9 @@ I was selected for software engineering training after showing an aptitude.
 
 > *Tech Stack:*
 > 
-> Python: Data Engineering and Data Analysis
-> Dataiku: Cloud Infra
-> Snowflake: Database
+> - Python: Data Engineering and Data Analysis
+> - Dataiku: Cloud Infra
+> - Snowflake: Database
 
 - Collected Geospatial Data for the entire state of California using Planet.io's API
 - Connected multiple datasets and tied them to a location to give a clearer picture on an area
@@ -88,8 +88,8 @@ I was selected for software engineering training after showing an aptitude.
 
 > *Tech Stack:*
 > 
-> MySQL: Data Engineering
-> SAS: Data Analysis
+> - MySQL: Data Engineering
+> - SAS: Data Analysis
 
 - I had a short stint working as a Data Engineer with a dutch financial institution
 
@@ -111,29 +111,29 @@ Some projects/Features I delivered include:
 ### AWS IP Lambda
 > *Tech Stack:*
 > 
-> Python
-> AWS
-> Terraform
-> Jenkins
-> Docker
+> - Python
+> - AWS
+> - Terraform
+> - Jenkins
+> - Docker
 
 ### GCC High
 > *Tech Stack:*
 > 
-> Node.js
-> Azure (standard and GCC High)
-> Terraform
-> Jenkins
+> - Node.js
+> - Azure (standard and GCC High)
+> - Terraform
+> - Jenkins
 
 
 ### Batch processing logs
 > *Tech Stack:*
 > 
-> Node.js
-> Azure
-> AWS
-> Terraform
-> Jenkins
+> - Node.js
+> - Azure
+> - AWS
+> - Terraform
+> - Jenkins
 
 - At this stage, we were half way through the migration to AWS
 - 
