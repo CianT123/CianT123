@@ -12,11 +12,8 @@ My name is Cian and I am from Cork in Ireland.
 I'm a pretty standard Irish twenty-something year-old, with a passion for sports, nature and Guinness 
 
 Growing up, I always loved building things and solving problems. 
-
 Until we were 12, my twin brother and I had a minuture farm set up in the attic. 
-
 Even then, I was contantly thinking about the best way to set up a system. 
-
 Somethings size, location and proximity to other resources were all being considered.
 
 I also got a bit of stakeholder management when explaining to my 8 year old brother (It's a big stretch but you bet I'm making that claim!)
