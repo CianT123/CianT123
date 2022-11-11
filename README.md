@@ -38,7 +38,6 @@ I struggled to enjoy abstract maths, or other modules without obvious real life 
 I excelled at Linear Algebra, Multivariable Calculus and Programming in C. This was the first time I got exposure to computer programming and I loved it.
 
 Through the four years, I gained experience in C, C++ and Python. 
-
 R was also heavily though for Data Analysis, teaching me modelling techniques like regression, along with Anomoly detection and Time Series. 
 
 After college, I had a few options in terms of Industry to go in to. I showed a passion for Computer Programming so I elected to pursue it over roles as an Actuary or Trader. 
@@ -48,12 +47,14 @@ After college, I had a few options in terms of Industry to go in to. I showed a 
 I have worked as a Software Engineer for nearly 4 years. 
 
 Heres where that time went: 
-# Accenture
+## Accenture
 I joined Accentures 2018, where I became a member of their Fraud and AML Analytics Team
 Initially, I worked with data science and engineering. 
 I was selected for software engineering training after showing an aptitude. 
 
-## Accenture Projects include: 
+Accenture Projects include: 
+
+
 ### Quantexa - Software Engineer
 > Tech stack:
 > Scala 
