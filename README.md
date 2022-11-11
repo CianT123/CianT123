@@ -9,24 +9,43 @@
 Hi and welcome to my page!
 
 My name is Cian and I am from Cork in Ireland.
-I'm a pretty standard Irish twenty-something year-old, with a passion for Sports, Nature and Guiness 
+I'm a pretty standard Irish twenty-something year-old, with a passion for Sports, Nature and Guinness 
 
 Growing up, I always loved building things and solving problems. 
 
-Until we were 12, my brother and I had a minuture farm set up in the attic. 
+Until we were 12, my twin brother and I had a minuture farm set up in the attic. 
 Even then, I was contantly thinking about the best way to set up a system. 
 Somethings size, location and proximity to other resources were all being considered.
+I also got a bit of stakeholder management when explaining to my 8 year old brother (It's a big stretch but you bet I'm making that claim!)
 I really loved to put myself in a situation where I could solve real problems, especially with simple but unintuitive solutions. 
 
 The better you are at something, the more you will probably like it, and the more you like something, the more you will thrive at it. 
+
 This was my experience with Maths. 
+
+I was a member of the Maths Olympiad teams throughout school, placing 3rd in the All Ireland School Maths competition when I was 18.
+
 I showed an aptitude early on, regularly achieving the highest grades in my class. 
 
 To build on my strengths, I chose to enroll in the Mathematics degree in University College Cork
 
 
 # Mathematics Degree - University College Cork
+I enrolled in UCC in September 2013. 
 
+Here, I learnt quickly that studying "Maths" is like saying you work in "Computers", theres a lot of areas. 
+
+I struggled to enjoy abstract maths, or other modules without obvious real life applications, but really loved anything where I could solve something. 
+I excelled at Linear Algebra, Multivariable Calculus and Derivatives/Option Pricing. This was also the first time that I got exposure to computer programming. As soon as I took the Intro to C module in first year, I knew that I loved it. 
+
+Through the four years, I would have gained experience in C, C++ and Python. 
+
+R was also heavily though for Data Analysis, teaching me modelling techniques like regression, along with Anomoly detection and Time Series. 
+
+  
+
+
+Here, I got my first taste 
 
 I have worked as a Software Engineer for nearly 4 years. 
 Heres where that time went: 
