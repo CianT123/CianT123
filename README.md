@@ -48,7 +48,7 @@ I have worked as a Software Engineer for nearly 4 years.
 
 Heres where that time went: 
 ## Accenture
-I joined Accentures 2018, where I became a member of their Fraud and AML Analytics Team
+I joined Accentures 2018, where I became a member of their Fraud and AML Analytics Team.
 Initially, I worked with data science and engineering. 
 I was selected for software engineering training after showing an aptitude. 
 
@@ -67,24 +67,44 @@ I was selected for software engineering training after showing an aptitude.
 > GCP Buckets : For internal use
 
 - Selected for Software Engineering training with Quantexa.
+- Subcontracted out to a large spanish bank.
 - Developing network entity resolution software.
 - Identifying potentially malicious actors in a network.
 
 ### Insurance Company
 
+> *Tech Stack:*
+> 
+> Python: Data Engineering and Data Analysis
+> Dataiku: Data preparation and Visualisation
+> Snowflake: Database
+
+- Collected Geospatial Data for the entire state of California using Planet.io's API
+- Connected multiple datasets and tied them to a location to give a clearer picture on an area
+- Derrived a Wildfire Risk score to determine an areas exposure to fires
+
+
 ### Dutch Bank
 
+> *Tech Stack:*
+> 
+> MySQL: Data Engineering
+> SAS: Data Analysis
+
+- I had a short stint working as a Data Engineer with a dutch financial institution
+- 
 ### Tableau Mentor
 
+#
 ### Other Contributions to the Practice
 - Quantexa mentorship and training
 
 ### What did I learn from Accenture?
 
-# Vectra
+## Vectra
 Some projects/Features I delivered include:
 
-## Lambda
+### Lambda
 
 
 
