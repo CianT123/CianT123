@@ -76,7 +76,7 @@ I was selected for software engineering training after showing an aptitude.
 > *Tech Stack:*
 > 
 > Python: Data Engineering and Data Analysis
-> Dataiku: Data preparation and Visualisation
+> Dataiku: Cloud Infra
 > Snowflake: Database
 
 - Collected Geospatial Data for the entire state of California using Planet.io's API
@@ -92,23 +92,54 @@ I was selected for software engineering training after showing an aptitude.
 > SAS: Data Analysis
 
 - I had a short stint working as a Data Engineer with a dutch financial institution
-- 
-### Tableau Mentor
 
-#
+
 ### Other Contributions to the Practice
-- Quantexa mentorship and training
+- Tableau mentorship and training.
+- Quantexa mentorship and training.
+
 
 ### What did I learn from Accenture?
+
+- Stakeholder management.
+- Experience working side by side with external clients.
+- Presentation / Management consultancy skills.
 
 ## Vectra
 Some projects/Features I delivered include:
 
-### Lambda
+### AWS IP Lambda
+> *Tech Stack:*
+> 
+> Python
+> AWS
+> Terraform
+> Jenkins
+> Docker
+
+### GCC High
+> *Tech Stack:*
+> 
+> Node.js
+> Azure (standard and GCC High)
+> Terraform
+> Jenkins
 
 
+### Batch processing logs
+> *Tech Stack:*
+> 
+> Node.js
+> Azure
+> AWS
+> Terraform
+> Jenkins
 
-### W
+- At this stage, we were half way through the migration to AWS
+- 
+### Sensor Management migration
+
+### Orange Security Partnership
 
 
 
