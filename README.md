@@ -52,7 +52,7 @@ I joined Accentures 2018, where I became a member of their Fraud and AML Analyti
 Initially, I worked with data science and engineering. 
 I was selected for software engineering training after showing an aptitude. 
 
-** Accenture Projects include: **
+**Accenture Projects include: **
 
 ### Quantexa - Software Engineer
 > Tech stack:
