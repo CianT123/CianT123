@@ -50,7 +50,7 @@ R was also heavily though for Data Analysis, teaching me modelling techniques li
 
 After college, I had a few options in terms of Industry to go in to. I showed a passion for Computer Programming so I elected to pursue it over roles as an Actuary or Trader. 
 
----
+# Software Engineering
 
 I have worked as a Software Engineer for nearly 4 years. 
 
