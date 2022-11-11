@@ -57,6 +57,11 @@ I was selected for software engineering training after showing an aptitude.
 ### Quantexa - Software Engineer
 > Tech stack:
 > Scala 
+> Spark
+> Hadoop
+> Gradle
+> Maven
+> GCP Buckets
 
 - Selected for Software Engineering training with Quantexa
 - Developing network
