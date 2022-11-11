@@ -53,6 +53,7 @@ After college, I had a few options in terms of Industry to go in to. I showed a 
 ---
 
 I have worked as a Software Engineer for nearly 4 years. 
+
 Heres where that time went: 
 # Accenture
 I joined Accentures 2018, where I became a member of their Fraud and AML Analytics Team
