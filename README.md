@@ -55,16 +55,20 @@ I was selected for software engineering training after showing an aptitude.
 ## *Accenture Projects include:*
 
 ### Quantexa - Software Engineer
-> Tech stack:
-> Scala 
-> Spark
-> Hadoop
-> Gradle
-> Maven
-> GCP Buckets
+> *Tech stack:*
+> 
+> Scala : Used for programming
+> Spark : Streaming Framework
+> Hadoop : Data
+> Jenkins : CI/CD
+> Gradle : Building JAR packages
+> Nexus : JAR repository
+> Maven : Deployment of JAR packages
+> GCP Buckets : For internal use
 
-- Selected for Software Engineering training with Quantexa
-- Developing network
+- Selected for Software Engineering training with Quantexa.
+- Developing network entity resolution software.
+- Identifying potentially malicious actors in a network.
 
 ### Insurance Company
 
