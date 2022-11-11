@@ -42,10 +42,9 @@ Through the four years, I would have gained experience in C, C++ and Python.
 
 R was also heavily though for Data Analysis, teaching me modelling techniques like regression, along with Anomoly detection and Time Series. 
 
-  
+After college, I had a few options in terms of Industry to go in to. I showed a passion for Computer Programming so I elected to pursue it over roles as an Actuary or Trader. 
 
-
-Here, I got my first taste 
+---
 
 I have worked as a Software Engineer for nearly 4 years. 
 Heres where that time went: 
