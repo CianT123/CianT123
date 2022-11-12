@@ -108,6 +108,14 @@ I was selected for software engineering training after showing an aptitude.
 ## Vectra
 Some projects/Features I delivered include:
 
+### My Role at Vectra
+
+### My Projects at Vectra
+
+### What I learned from Vectra
+Delivering a product end to end
+
+
 ### AWS IP Lambda
 > *Tech Stack:*
 > 
@@ -117,6 +125,12 @@ Some projects/Features I delivered include:
 > - Jenkins
 > - Docker
 
+- Created a Lambda function, triggered by the AWS sns topic, to format and store the ip address's in an S3 bucket
+- Connected to S3 via access keys set up for programmatic access
+- Set up a repository for the Lambda.
+- Configured Vectras deployment repo to deploy the Lambda
+- Testing
+
 ### GCC High
 > *Tech Stack:*
 > 
@@ -124,6 +138,12 @@ Some projects/Features I delivered include:
 > - Azure (standard and GCC High)
 > - Terraform
 > - Jenkins
+
+- O365 offers a more secure version for government clients, GCC High
+- I was asked to research and implement the changes required to onboard GCC High clients
+- Met with Liam, previous owner of the consent process
+- Working with PM to discuss the best way to implement this new feature
+- Working with UI for front end implementation and redefining data/api contracts
 
 
 ### Batch processing logs
@@ -136,7 +156,9 @@ Some projects/Features I delivered include:
 > - Jenkins
 
 - At this stage, we were half way through the migration to AWS
-- 
+- Reduced Functions used by 97%
+- Reduced function generated metrics by 97%
+
 ### Sensor Management migration
 
 ### Orange Security Partnership
