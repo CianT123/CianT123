@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CianT123
 - 👀 I’m interested in getting daycent at software engineering
 - 🌱 I’m currently learning as much as possible. I'm looking at node.js in connection with terraform for creating serverless cloud applications. I'm also interest in solving problems with python. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I currently use Python, Node.JS and Scala but would love to pick up Go or Java
+- 📫 Please feel free to reach out to me on [My LinkedIn Profile](https://www.linkedin.com/in/cian-tuohy-650712130/) 
 
 
 # Background
