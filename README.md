@@ -106,15 +106,19 @@ I was selected for software engineering training after showing an aptitude.
 - Presentation / Management consultancy skills.
 
 ## Vectra
-Some projects/Features I delivered include:
-
 ### My Role at Vectra
+- Involved with the design and maintenance of a multi-cloud cloud system ingesting millions of logs hourly.
+- Individually delivered Proof of Concepts to customers.
+- Worked side by side with consumers, internal and external, to optimize service performance.
+- Monitored system performance, using custom created metrics, alerts and Grafana dashboards.
+- Lead technical interviews.
 
-### My Projects at Vectra
+### What I learned at Vectra
+ - How to deliver features through full life cycle, from design to testing and deployment.
+ - How to migrate a system accross cloud providers.
+ - System Architechture
 
-### What I learned from Vectra
-Delivering a product end to end
-
+### My Projects at Vectra:
 
 ### AWS IP Lambda
 > *Tech Stack:*
@@ -141,7 +145,7 @@ Delivering a product end to end
 
 - O365 offers a more secure version for government clients, GCC High
 - I was asked to research and implement the changes required to onboard GCC High clients
-- Met with Liam, previous owner of the consent process
+- Required updates to the consent and ingestion process
 - Working with PM to discuss the best way to implement this new feature
 - Working with UI for front end implementation and redefining data/api contracts
 
@@ -159,9 +163,6 @@ Delivering a product end to end
 - Reduced Functions used by 97%
 - Reduced function generated metrics by 97%
 
-### Sensor Management migration
-
-### Orange Security Partnership
 
 
 
